@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Mingxin(Simon) Lu
+**USF email address**:  mlu18@dons.usfca.edu
